@@ -1,9 +1,9 @@
 ##   Olá! Eu sou o Nelson Machado!
-### Procurando uma oportunidade no mundo do desenvolvimento de softwares/apps! 💻💻
-### Atualmente Trabalho na Concentrix Brasil no produto Disney+ 🧑‍💼
+### Procurando uma oportunidade no mundo do desenvolvimento de softwares/apps! 💻
+### Atualmente trabalho na Concentrix Brasil no produto Disney+ 🧑‍💼
 ### Para entrar em contato comigo: nelson.nepem@gmail.com ou machado.nelson@outlook.com.br 😁👍
 ### Pronomes: Ele/dele
-### Fun fact: AMO F1 melhor esporte! 🏎️🏎️
+### Fun fact: AMO F1 melhor esporte! 🏎️
 
 
 <!-- GitHub Stats below -->
