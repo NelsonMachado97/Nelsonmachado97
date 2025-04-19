@@ -1,4 +1,4 @@
-##   Olá! Eu sou o Nelson Machado!
+##   Olá! Meu nome é Nelson Machado!
 ### Procurando uma oportunidade no mundo do desenvolvimento de softwares/apps! 💻
 ### Atualmente trabalho na Concentrix Brasil no produto Disney+ 🧑‍💼
 ### Para entrar em contato comigo: nelson.nepem@gmail.com ou machado.nelson@outlook.com.br 😁👍
