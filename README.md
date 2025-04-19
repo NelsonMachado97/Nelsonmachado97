@@ -1,4 +1,5 @@
 ##   Olá! Eu sou o Nelson Machado!
+### Procurando uma oportunidade no mundo do desenvolvimento de softwares/apps! 💻💻
 
 <!-- GitHub Stats below -->
 <a href="https://github.com/Nelsonmachado97/github-readme-stats">
